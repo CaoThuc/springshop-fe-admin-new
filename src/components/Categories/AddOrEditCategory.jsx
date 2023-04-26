@@ -22,7 +22,7 @@ import ContentHeader from '../common/ContentHeader';
                 </Form.Item>
                 <Form.Item label="Status" name="status" initialValue={"0"}>
                   <Select >
-                    <Select.Option value="0">Visible</Select.Option>
+                    <Select.Option value="0">Visiblee</Select.Option>
                     <Select.Option value="1">Invisible</Select.Option>
                   </Select>
                 </Form.Item>
