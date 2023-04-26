@@ -1,0 +1,26 @@
+.site-layout-background{
+    background-color: #fff !important;
+}
+
+.ant-col-header span.trigger svg{
+    width: 25px !important;
+    height: 25px !important;
+    padding: 10px !important;
+
+}
+.text-aline{
+    text-align: left;
+}
+.logo h2{
+    color: floralwhite !important;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 16px; 
+}
+.content-panel{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    padding: 16px;
+    height: 80vh;
+}
+
